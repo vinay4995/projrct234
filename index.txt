@@ -1,2 +1,3 @@
 code for index
 code for buffalo
+code for dog
